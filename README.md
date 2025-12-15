@@ -81,7 +81,7 @@ The dashboards provide actionable insights using KPIs, trends, comparisons, and 
 - Attrition trends and performance insights
 
 🖼️ *Dashboard Preview:*  
-![InnovateHR Dashboard](image/Innovate_Hr_Dashboard.png)
+![InnovateHR Dashboard](image/InnovateX_Hr_Dashboard.png)
 
 ---
 
