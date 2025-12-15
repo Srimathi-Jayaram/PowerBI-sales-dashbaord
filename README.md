@@ -25,7 +25,7 @@ The dashboards provide actionable insights using KPIs, trends, comparisons, and 
 - Daily and monthly sales trends
 
 🖼️ *Dashboard Preview:*  
-![Pizza Sales Dashboard](image/Pizza Dashboard.png)
+![Pizza Sales Dashboard](image/Pizza_Dashboard.png)
 
 ---
 
@@ -39,7 +39,7 @@ The dashboards provide actionable insights using KPIs, trends, comparisons, and 
 - Impact assessment using interactive filters
 
 🖼️ *Dashboard Preview:*  
-![COVID-19 Dashboard](image/COVID 19 Dashboard.png)
+![COVID-19 Dashboard](image/COVID_19_Dashboard.png)
 
 ---
 
@@ -53,7 +53,7 @@ The dashboards provide actionable insights using KPIs, trends, comparisons, and 
 - Yearly and location-based accident trends
 
 🖼️ *Dashboard Preview:*  
-![UK Road Accident Dashboard](image/Uk Road Accident Dashboard.png)
+![UK Road Accident Dashboard](image/Uk_Road_Accident_Dashboard.png)
 
 ---
 
@@ -81,7 +81,7 @@ The dashboards provide actionable insights using KPIs, trends, comparisons, and 
 - Attrition trends and performance insights
 
 🖼️ *Dashboard Preview:*  
-![InnovateHR Dashboard](image/Innovate Hr Dashboard.png)
+![InnovateHR Dashboard](image/Innovate_Hr_Dashboard.png)
 
 ---
 
