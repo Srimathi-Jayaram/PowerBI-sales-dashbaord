@@ -67,7 +67,7 @@ The dashboards provide actionable insights using KPIs, trends, comparisons, and 
 - Top-performing and underperforming products
 
 🖼️ *Dashboard Preview:*  
-![Adidas Sales Dashboard](image/Adidas Sales Dashboard.png)
+![Adidas Sales Dashboard](image/Adidas_Sales_Dashboard.png)
 
 ---
 
