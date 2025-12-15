@@ -1,2 +1,2 @@
-# PowerBI-sales-dashbaord
-Interactive Power BI dashboard analyzing sales performance
+# PowerBI-business-insights
+Power BI project containing 6 interactive dashboards for business analysis
